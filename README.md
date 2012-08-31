@@ -1,0 +1,1 @@
+A stripped down boilerplate for developing wordpress themes using SASS.
